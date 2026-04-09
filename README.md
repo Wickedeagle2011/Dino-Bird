@@ -1,13 +1,36 @@
 # Vinay_Saravanan
-Year 10 Student | Aspiring Economics & Data Science Candidate
-Profile Overview
-I am a student developer focused on the intersection of quantitative finance and computational logic. My ambition is to study at the undergraduate level in a field that combines economic theory with data-driven problem solving, such as the EFDS course at Imperial College London.
-Technical Interests
-I am currently teaching myself Python to understand how to build simulations and manage complex data. My work focuses on creating logic-based systems that involve variable management, risk assessment, and reward structures.
-Current Project: Dino-Bird
-This is a lane-based navigation game built in Python. It serves as a practical application of coding fundamentals and system design.
-Key technical features include:
-Discrete lane movement logic using coordinate mapping.
-Dynamic difficulty scaling through speed multipliers.
-Economic reward systems using coin-based score multipliers.
-State management for player health and game-over conditions.
+# Vinay Saravanan
+### **Year 10 Student | Aspiring Economics, Finance & Data Science Candidate**
+
+---
+
+## 🎯 **Academic Ambition**
+I am a Year 10 student building a foundation in **Quantitative Economics** and **Data Science**. My goal is to pursue a degree that merges mathematical theory with computational analysis, specifically targeting high-level courses like the **Imperial College London EFDS BSc**. I am interested in how code can be used to model human behaviour and financial systems.
+
+---
+
+## 📂 **Featured Project: Dino-Bird**
+*A Python-based simulation focused on logic and variable-driven gameplay.*
+
+![Dino-Bird Gameplay](https://github.com)
+
+### **Technical Implementation**
+*   **Coordinate Mapping:** Managing movement across discrete lane-based paths.
+*   **Dynamic Complexity:** Implementing speed multipliers that increase difficulty over time—simulating high-pressure environments.
+*   **Economic Logic:** Designing coin-based score multipliers to simulate reward-based incentives and resource collection.
+*   **System States:** Managing player health (lives) and conditional "Game Over" logic to handle risk mitigation.
+
+---
+
+## 🛠️ **Skills & Tools**
+*   **Programming:** Python (IDLE environment)
+*   **Mathematical Focus:** Quantitative reasoning and statistical problem-solving.
+*   **Data Analysis:** Using Microsoft Excel for basic financial modelling.
+*   **Current Learning:** Exploring the `Pygame` library for more advanced simulations.
+
+---
+
+## 🚀 **Future Milestones**
+1.  **Data Integration:** Transitioning from game logic to analysing real-world economic datasets using Python.
+2.  **Advanced Math:** Preparing for the **TMUA** and **UKMT** to strengthen my quantitative profile for top-tier universities.
+3.  **Portfolio Growth:** Building a library of projects that demonstrate consistent technical growth from Year 10 through Year 13.
