@@ -1,2 +1,2 @@
-# Dino-Bird
-A short, clean simple game of the character Dino-Bird, who moves through the sky trying to dodge obstacles coming his way.
+# Vinay_Saravanan
+High school student passionate about machine learning and seeking university opportunities
