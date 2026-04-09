@@ -12,6 +12,9 @@ I am a Year 10 student building a foundation in **Quantitative Economics** and *
 ## 📂 **Featured Project: Dino-Bird**
 *A Python-based simulation focused on logic and variable-driven gameplay.*
 
+## **How 2 Play**
+* You have to use the up and down arrow to switch lanes to dodge obstacles. You use the right arrow to move at twice the speed, fo 3x the score, or the left arrow for half the speed, but for a third of the score. Every coin you get will multiply your score bonus multiplier by 1.2, meaning your score will go up faster. The aim is to get as high of a score as possible. It is designed for concentration and risk management, and is a fun and competitive no internet game to play and compare scores against friends. *
+
 ![Dino-Bird Gameplay](https://github.com)
 
 ### **Technical Implementation**
